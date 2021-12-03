@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/lastheart/static/css/main.a9fff509.chunk.css",
+    "main.js": "/lastheart/static/js/main.3b668857.chunk.js",
+    "main.js.map": "/lastheart/static/js/main.3b668857.chunk.js.map",
+    "runtime-main.js": "/lastheart/static/js/runtime-main.a198615c.js",
+    "runtime-main.js.map": "/lastheart/static/js/runtime-main.a198615c.js.map",
+    "static/js/2.ead3e581.chunk.js": "/lastheart/static/js/2.ead3e581.chunk.js",
+    "static/js/2.ead3e581.chunk.js.map": "/lastheart/static/js/2.ead3e581.chunk.js.map",
+    "index.html": "/lastheart/index.html",
+    "static/css/main.a9fff509.chunk.css.map": "/lastheart/static/css/main.a9fff509.chunk.css.map",
+    "static/js/2.ead3e581.chunk.js.LICENSE.txt": "/lastheart/static/js/2.ead3e581.chunk.js.LICENSE.txt",
+    "static/media/b.43b444bf.mp4": "/lastheart/static/media/b.43b444bf.mp4",
+    "static/media/banner.7bde8e65.png": "/lastheart/static/media/banner.7bde8e65.png",
+    "static/media/goldlogo.780ed21b.png": "/lastheart/static/media/goldlogo.780ed21b.png",
+    "static/media/img1.22686bf3.jpg": "/lastheart/static/media/img1.22686bf3.jpg",
+    "static/media/img2.0bb7b3ce.jpg": "/lastheart/static/media/img2.0bb7b3ce.jpg",
+    "static/media/img3.8613e9dd.jpg": "/lastheart/static/media/img3.8613e9dd.jpg",
+    "static/media/img4.2f2d2422.jpg": "/lastheart/static/media/img4.2f2d2422.jpg",
+    "static/media/img5.fb16eb27.jpg": "/lastheart/static/media/img5.fb16eb27.jpg",
+    "static/media/un.279509a1.png": "/lastheart/static/media/un.279509a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a198615c.js",
+    "static/js/2.ead3e581.chunk.js",
+    "static/css/main.a9fff509.chunk.css",
+    "static/js/main.3b668857.chunk.js"
+  ]
+}
