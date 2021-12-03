@@ -1,0 +1,82 @@
+/*-----------------------TEXT-------------------*/
+
+.description {
+    width: 1366px;
+    height: 414px;
+    margin: 0 auto;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.description p {
+    width: 654px;
+    height: 114px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    line-height:20px;
+    font-weight: 400;
+    color: #2F4858;
+    letter-spacing: 1.5px;
+    margin-top: 110px;
+    padding: 0;
+   
+   
+}
+
+
+@media all and (min-width: 993px) and (max-width: 1200px){
+    .description {
+        width: 100%;
+    }
+    .description p {
+        width: 100%;
+        height: 60%;
+        font-size: 14px;
+        padding: 0 20px 0 20px;
+        line-height: 25px;
+        margin-top: 0;
+}
+}
+@media all and (min-width: 767px) and (max-width: 992px){
+    .description {
+        width: 100%;
+    }
+    .description p {
+        width: 100%;
+        height: 60%;
+        font-size: 16px;
+        padding: 0 20px 0 20px;
+        line-height: 25px;
+        margin-top: 0;
+    }
+}
+@media all and (min-width: 480px) and (max-width: 768px){
+    .description {
+        width: 100%;
+    }
+    .description p {
+        width: 100%;
+        height: 60%;
+        font-size: 16px;
+        padding: 0 20px 0 20px;
+        line-height: 25px;
+        align-items: center;
+    }
+}
+@media all and (min-width: 299px) and (max-width: 479px){
+    .description {
+        width: 100%;
+    }
+    .description p {
+        width: 100%;
+        height: 60%;
+        font-size: 16px;
+        padding: 0 20px 0 20px;
+        line-height: 25px;
+        margin-top: 0;
+    }
+}
